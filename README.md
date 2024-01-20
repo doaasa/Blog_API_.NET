@@ -35,7 +35,9 @@ Cross-Origin Resource Sharing (CORS) is enabled to allow requests from any origi
 
 
 # API with swagger
+<img src="https://github.com/doaasa/Blog_API_.NET/blob/main/Images/Screenshot%20(1013).png" width=100%> 
 
+# Watch the Video
 
 
 

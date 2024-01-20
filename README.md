@@ -43,6 +43,6 @@ https://github.com/doaasa/Blog_API_.NET/assets/76880107/735f7072-83ea-4150-b530-
 
 
 # Support
-If you encounter any issues or have any questions, please contact the developer.
+If you encounter any issues or have any questions, please contact the developer. <br>
 To contact Developer:
 ## [LinkedIn](https://www.linkedin.com/in/doaa-sayed-ibrahim-08a77a209) 

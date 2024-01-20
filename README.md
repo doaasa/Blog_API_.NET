@@ -38,6 +38,7 @@ Cross-Origin Resource Sharing (CORS) is enabled to allow requests from any origi
 <img src="https://github.com/doaasa/Blog_API_.NET/blob/main/Images/Screenshot%20(1013).png" width=100%> 
 
 # Watch the Video
+https://github.com/doaasa/Blog_API_.NET/assets/76880107/735f7072-83ea-4150-b530-0df1986a0d10
 
 
 
